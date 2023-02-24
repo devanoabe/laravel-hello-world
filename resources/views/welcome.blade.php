@@ -24,8 +24,8 @@
             <div class="ml-4 text-lg leading-7 font-semibold">
                 <h1 class="text-gray-900 dark:text-white">
                     Devano Abe<br>
-                    2141720204<br>
-                    2H
+                    NIM 2141720204<br>
+                    Kelas 2H
                 </h1>
             </div>
        </div>
